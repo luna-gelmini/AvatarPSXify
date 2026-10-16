@@ -14,8 +14,8 @@ reduction, atlasing, material conversion and animation fixes.
 
 ## Install
 
-- **VRChat Creator Companion (recommended):** open https://luna-gelmini.github.io/vpm/ and press
-  **Add to VCC** (or add `https://luna-gelmini.github.io/vpm/index.json` under Settings →
+- **VRChat Creator Companion (recommended):** open https://vpm.ladyluh.dev/ and press
+  **Add to VCC** (or add `https://vpm.ladyluh.dev/index.json` under Settings →
   Packages), then add **ps1ify** to your project. VCC keeps it updated. questkit comes along automatically.
 - **.unitypackage:** download `QuestKit-<version>.unitypackage` and `PS1ify-<version>.unitypackage`
   from the two repos' Releases and drag both into Unity.
