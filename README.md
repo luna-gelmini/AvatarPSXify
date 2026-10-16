@@ -39,9 +39,6 @@ questkit's **Quest Planner** on the same avatar first; ps1ify keeps them.
   what they hold, faces get double); the PC copy gets twice that.
 - Paints glow into the colour and gives faces the softest shading ramp.
 
-It uses VRChat's Toon Standard rather than a vertex-snapping "wobble" shader: VRChat breaks those
-apart.
-
 ## License
 
 MIT
