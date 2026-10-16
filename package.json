@@ -1,0 +1,21 @@
+{
+  "name": "dev.ladyluh.ps1ify",
+  "displayName": "ps1ify",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Turns VRChat avatars into cute PS1-style ones: low-poly, baked facets, dithered pixel textures. Builds a Quest and a PC copy. Built on questkit.",
+  "author": {
+    "name": "luna-gelmini",
+    "url": "https://github.com/luna-gelmini"
+  },
+  "license": "MIT",
+  "documentationUrl": "https://github.com/luna-gelmini/AvatarPSXify",
+  "url": "https://github.com/luna-gelmini/AvatarPSXify/releases/download/v1.0.0/dev.ladyluh.ps1ify-1.0.0.zip",
+  "vpmDependencies": {
+    "com.vrchat.avatars": ">=3.7.0",
+    "dev.ladyluh.questkit": ">=1.0.0"
+  },
+  "legacyFolders": {
+    "Assets\\PS1ify": ""
+  }
+}

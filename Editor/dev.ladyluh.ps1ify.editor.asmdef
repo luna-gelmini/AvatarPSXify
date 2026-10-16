@@ -1,0 +1,19 @@
+{
+    "name": "dev.ladyluh.ps1ify.editor",
+    "rootNamespace": "PS1ify",
+    "references": [
+        "dev.ladyluh.questkit",
+        "dev.ladyluh.questkit.editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -4,17 +4,24 @@ Turns a VRChat avatar into a cute PS1-style one: chunky low-poly shapes, flat-sh
 small dithered, pixel-crisp textures. It builds a Quest copy and a PC copy and never changes the
 original.
 
-It is built on [questkit](https://github.com/luna-gelmini/questkit), which does the mesh
+It is built on [questkit](https://github.com/luna-gelmini/QuestKit), which does the mesh
 reduction, atlasing, material conversion and animation fixes.
 
 ## Requirements
 
 - Unity 2022.3 with the VRChat Avatars SDK 3.7 or newer
-- questkit (copy its `Editor` and `Runtime` folders into `Assets/QuestKit`)
+- [questkit](https://github.com/luna-gelmini/QuestKit) (VCC installs it automatically)
 
 ## Install
 
-Copy the `Editor` folder into `Assets/PS1ify` in your avatar project.
+- **VRChat Creator Companion (recommended):** open https://luna-gelmini.github.io/vpm/ and press
+  **Add to VCC** (or add `https://luna-gelmini.github.io/vpm/index.json` under Settings →
+  Packages), then add **ps1ify** to your project. VCC keeps it updated. questkit comes along automatically.
+- **.unitypackage:** download `QuestKit-<version>.unitypackage` and `PS1ify-<version>.unitypackage`
+  from the two repos' Releases and drag both into Unity.
+- **Git URL:** in Window → Package Manager → **+** → *Add package from git URL*, add
+  `https://github.com/luna-gelmini/QuestKit.git` first, then
+  `https://github.com/luna-gelmini/AvatarPSXify.git`.
 
 ## Use
 
